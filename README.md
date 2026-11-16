@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # LingoLearn
 
 一款面向中国英语学习者的 iOS 单词背诵应用。SwiftUI + SwiftData + Swift Charts，支持 SM-2 间隔重复、三种练习题型、学习进度可视化，内置 525+ CET4/CET6 单词。
